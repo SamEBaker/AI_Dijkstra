@@ -1,4 +1,4 @@
 # AI_Dijkstra
-[Watch]()
+[Watch[]()](https://samebaker.github.io/AI_Dijkstra/)
 
 Bottom Right is node connections
